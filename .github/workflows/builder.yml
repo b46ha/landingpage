@@ -32,4 +32,4 @@ jobs:
           $BUILD_ARGS \
           --target /data \
           --homeassistant-landingpage ALL \
-          --docker-hub homeassistant
+          --docker-hub b46ha
